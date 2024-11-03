@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:18-slim
 
 RUN npm install -g dashpress
 
